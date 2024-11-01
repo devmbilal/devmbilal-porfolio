@@ -1,13 +1,16 @@
 import React from "react";
-import "./App.scss";
-import Main from "./containers/Main";
+import { Route, Switch } from "react-router-dom";
+import Home from "./Home"; // Example component
+import About from "./About"; // Example component
 
-function App() {
+const Main = () => {
   return (
-    <div>
-      <Main />
-    </div>
+    <Switch>
+      <Route exact path="/" component={Home} />
+      <Route path="/about" component={About} />
+      {/* Add more routes as needed */}
+    </Switch>
   );
-}
+};
 
-export default App;
+export default Main;
