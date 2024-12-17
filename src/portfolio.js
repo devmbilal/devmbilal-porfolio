@@ -23,7 +23,7 @@ const greeting = {
   username: "devmbilal",
   title: "Hi all, I'm Bilal",
   subTitle: emoji(
-    "A backend and API developer skilled in Node.js, Express.js, and database management, with experience in building scalable applications and RESTful APIs. Currently expanding my expertise in DevOps to optimize and automate workflows."
+    "I'm a computer scientist deeply passionate about articial intelligence, backend development, and APIs, driven by a thirst for innovation and problem-solving. With a focus on building scalable systems, I strive to integrate AI technologies into practical solutions that enhance eciency and user experience. My expertise in backend architecture and API development enables me to design seamless and robust systems that bridge complex technologies with real-world applications. Beyond coding, I'm committed to leveraging AI for societal progress, aiming to tackle global challenges and empower communities. Through collaboration and mentorship, I aspire to contribute positively, harnessing technology to create impactful and sustainable solutions for a better future."
   ),
   resumeLink:
     "https://drive.google.com/file/d/11ICeubk_E5kc81orhXtunwS2dF_ls_yi/view?usp=sharing", // Replace with your actual resume link if different
